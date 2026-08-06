@@ -1,0 +1,55 @@
+SOURCE INFORMATION - CHUYEN DE 6
+================================
+Updated: 2026-07-23 (Buổi 3)
+
+1) Lecturer sample
+- File: data/raw/products_lecturer.xlsx / .csv
+- Records: 60
+- source_type: lecturer_sample
+- Note: starter data only
+
+2) Practice HTML (NOT counted as supplemental products)
+- Files: practice/html_sample/products_page_1.html, products_page_2.html
+- Parsed to: data/raw/products_from_html_practice.csv (60)
+- Compare log: logs/buoi3_so_sanh_html_excel.txt
+- Result: 60/60 match lecturer sample, 0 field diffs
+- Selectors: .product-card, .product-name, .category, .brand span,
+  .price[data-price], .stock span, .reorder span
+
+3) Practice API (optional / available)
+- Script: practice/practice_api/mock_api_server.py
+- Purpose: practice pagination, timeout, HTTP status
+- Not required for supplemental count after DummyJSON + Books done
+
+4) Supplemental crawl source A — DummyJSON
+- Docs: https://dummyjson.com/docs/products
+- Endpoint used: https://dummyjson.com/products/category/{category}
+- Categories: laptops, tablets, mobile-accessories
+- Records: 15 (P0061-P0075)
+- source_type: public_api
+- FX: USD * 25000 = VND
+- Timeout: 20s; sleep ~1s between category requests
+
+5) Supplemental crawl source B — Books to Scrape
+- URL: https://books.toscrape.com/
+- Records: 15 (P0076-P0090)
+- source_type: public_website
+- Map category: Sách
+- FX: GBP * 33000 = VND
+- Sleep ~1.5s between pages; timeout 20s
+
+6) Combined supplemental file
+- File: data/raw/products_crawled.csv
+- Total: 30 (>= 20 required)
+- Log: logs/crawl_log.txt
+
+7) Simulated fields (must disclose)
+- product_id (new codes P0061+)
+- initial_quantity / reorder_level (when not available)
+- popularity_weight, paired_product_id
+- brand for books (Unknown)
+- VND price via published FX (not native site currency)
+
+Target after Buổi 4 merge:
+- >= 80 products in data/processed/products_final.csv
+- Keep source columns for every row

@@ -1,0 +1,11 @@
+﻿product_id,y_true,y_pred,wrong,product_name,category,current_quantity,reorder_level,early_sold_qty,early_sell_through,margin
+P0057,1,0,True,Cáp USB-C 1 m,Phụ kiện máy tính,-49,15,22,0.3384615384615385,
+P0034,1,1,False,File hộp 10 cm,Hồ sơ và lưu trữ,-14,15,29,0.48333333333333334,29.0
+P0081,0,0,False,The Requiem Red,Sách,81,30,36,0.2975206611570248,51.0
+P0012,1,1,False,Bút bi đen 0.5 mm,Bút viết,8,60,143,0.4766666666666667,52.0
+P0068,1,1,False,Samsung Galaxy Tab White,Thiết bị văn phòng,-53,18,128,1.391304347826087,71.0
+P0065,1,1,False,New DELL XPS 13 9300 Laptop,Thiết bị văn phòng,-60,14,50,0.6756756756756757,74.0
+P0014,0,0,False,Bút gel xanh 0.5 mm,Bút viết,132,40,26,0.14444444444444443,92.0
+P0062,1,1,False,Asus Zenbook Pro Dual Screen Laptop,Thiết bị văn phòng,-87,9,77,1.711111111111111,96.0
+P0032,1,1,False,Bìa nút A4,Hồ sơ và lưu trữ,-63,35,141,0.88125,98.0
+P0021,0,0,False,Thước thẳng 20 cm,Dụng cụ học tập,135,35,3,0.01875,100.0

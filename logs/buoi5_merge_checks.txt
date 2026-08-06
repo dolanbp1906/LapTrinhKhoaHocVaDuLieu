@@ -1,0 +1,22 @@
+BUOI 5 - KIEM TRA KHOA & CARDINALITY
+
+[KEYS]
+- products PK unique: True n=90
+- customers PK unique: True n=220
+- orders PK unique: True n=1200
+- order_details dup keys (order_id,product_id): 0
+- inventory PK unique: True n=3396
+- orders.customer_id missing FK: 0
+- order_details.order_id missing FK: 0
+- order_details.product_id missing FK: 0
+- inventory.product_id missing FK: 0
+
+[MERGE CARDINALITY]
+- order_details rows BEFORE: 3274
+- after +orders: 3274 (delta=0)
+- after +customers: 3274 (delta=0)
+- after +products: 3274 (delta=0)
+
+fact_sales rows: 3274
+fact columns: ['order_id', 'product_id', 'quantity', 'selling_price', 'customer_id', 'order_date', 'payment_method', 'sales_channel', 'discount', 'city', 'customer_type', 'join_date', 'product_name', 'category', 'brand', 'unit', 'unit_price', 'reorder_level', 'source_type', 'year_month', 'line_revenue', 'allocated_discount', 'net_revenue']
+summaries written: 9

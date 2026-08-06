@@ -1,0 +1,8 @@
+﻿transaction_id,timestamp,transaction_type,product_id,quantity,performed_by,status,quantity_before,quantity_after,note
+TX000001,2026-07-23T20:59:47,import,P0001,20,demo_buoi2,success,180,200,Nhập bổ sung vở
+TX000002,2026-07-23T20:59:47,export,P0001,10,demo_buoi2,success,200,190,Xuất nội bộ
+TX000003,2026-07-23T20:59:47,adjust,P0011,5,demo_buoi2,success,350,345,Kiểm kê hao hụt
+TX000004,2026-07-23T20:59:47,export,P0005,155,demo_buoi2,rejected,55,55,"Từ chối: tồn kho âm (hiện có 55, yêu cầu 155)"
+TX000005,2026-07-23T20:59:47,sale,P0001,2,cashier,success,190,188,order=ORD000001
+TX000006,2026-07-23T20:59:47,sale,P0011,5,cashier,success,345,340,order=ORD000001
+TX000007,2026-07-23T20:59:47,sale,P0005,10000,cashier,rejected,55,55,"Từ chối: tồn kho âm (hiện có 55, yêu cầu 10000)"

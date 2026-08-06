@@ -1,0 +1,61 @@
+﻿product_id,product_name,category,brand,unit,unit_price,initial_quantity,reorder_level,popularity_weight,paired_product_id,source_type,source_reference
+P0001,Vở kẻ ngang 80 trang,Vở và giấy,Campus,quyển,12000,180,35,1,P0011,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0002,Vở kẻ ngang 120 trang,Vở và giấy,Campus,quyển,18000,150,30,8,P0011,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0003,Vở ô ly 96 trang,Vở và giấy,Hồng Hà,quyển,14000,170,35,5,P0017,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0004,Sổ lò xo A5 200 trang,Vở và giấy,Hải Tiến,quyển,42000,90,20,2,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0005,Sổ tay bìa da A5,Vở và giấy,OEM,quyển,79000,55,15,9,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0006,Giấy in A4 70 gsm,Vở và giấy,Double A,ram,82000,120,25,6,P0043,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0007,Giấy in A4 80 gsm,Vở và giấy,PaperOne,ram,99000,100,20,3,P0043,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0008,Giấy màu A4 100 tờ,Vở và giấy,IK Plus,xấp,65000,60,15,10,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0009,Giấy note 3 x 3 inch,Vở và giấy,Deli,xấp,18000,140,30,7,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0010,Giấy photo A3 70 gsm,Vở và giấy,Double A,ram,165000,45,10,4,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0011,Bút bi xanh 0.5 mm,Bút viết,Thiên Long,cây,5000,350,70,1,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0012,Bút bi đen 0.5 mm,Bút viết,Thiên Long,cây,5000,300,60,8,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0013,Bút bi đỏ 0.5 mm,Bút viết,Thiên Long,cây,5000,240,50,5,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0014,Bút gel xanh 0.5 mm,Bút viết,Deli,cây,12000,180,40,2,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0015,Bút máy học sinh,Bút viết,Hồng Hà,cây,45000,80,20,9,P0016,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0016,Ống mực bút máy xanh,Bút viết,Hồng Hà,hộp,25000,100,25,6,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0017,Bút chì 2B,Bút viết,Staedtler,cây,9000,220,45,3,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0018,Bút chì kim 0.5 mm,Bút viết,Pentel,cây,38000,90,20,10,P0019,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0019,Ruột chì kim 0.5 mm,Bút viết,Pentel,hộp,22000,110,25,7,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0020,Bút dạ quang 5 màu,Bút viết,Stabilo,bộ,85000,70,15,4,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0021,Thước thẳng 20 cm,Dụng cụ học tập,Thiên Long,cây,7000,160,35,1,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0022,Thước ê ke 2 chiếc,Dụng cụ học tập,Deli,bộ,18000,90,20,8,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0023,Compa học sinh,Dụng cụ học tập,Maped,chiếc,42000,65,15,5,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0024,Tẩy chì trắng,Dụng cụ học tập,Staedtler,viên,8000,180,40,2,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0025,Gọt bút chì có hộp,Dụng cụ học tập,Deli,chiếc,15000,120,25,9,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0026,Hộp bút vải,Dụng cụ học tập,OEM,chiếc,65000,60,15,6,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0027,Bộ màu sáp 24 màu,Dụng cụ học tập,Crayola,bộ,92000,55,12,3,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0028,Bộ màu nước 12 màu,Dụng cụ học tập,Pentel,bộ,78000,50,12,10,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0029,Kéo học sinh 13 cm,Dụng cụ học tập,Deli,chiếc,25000,85,18,7,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0030,Hồ khô 15 g,Dụng cụ học tập,Thiên Long,thỏi,14000,130,28,4,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0031,Bìa lá A4 trong,Hồ sơ và lưu trữ,Plus,chiếc,4000,300,60,1,P0006,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0032,Bìa nút A4,Hồ sơ và lưu trữ,Deli,chiếc,12000,160,35,8,P0006,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0033,Bìa còng 5 cm,Hồ sơ và lưu trữ,King Jim,chiếc,69000,75,18,5,P0006,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0034,File hộp 10 cm,Hồ sơ và lưu trữ,Flexoffice,chiếc,85000,60,15,2,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0035,Túi hồ sơ dây buộc,Hồ sơ và lưu trữ,Hồng Hà,chiếc,16000,110,25,9,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0036,Khay tài liệu 3 tầng,Hồ sơ và lưu trữ,Deli,bộ,185000,35,8,6,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0037,Cặp tài liệu A4,Hồ sơ và lưu trữ,OEM,chiếc,95000,45,10,3,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0038,Nhãn dán phân loại,Hồ sơ và lưu trữ,Avery,xấp,35000,80,18,10,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0039,Kẹp bướm 25 mm,Hồ sơ và lưu trữ,Deli,hộp,28000,120,25,7,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0040,Kẹp giấy 33 mm,Hồ sơ và lưu trữ,Plus,hộp,18000,140,30,4,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0041,Máy tính cầm tay khoa học,Thiết bị văn phòng,Casio,chiếc,680000,35,8,1,P0042,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0042,Pin AAA 4 viên,Thiết bị văn phòng,Panasonic,vỉ,42000,100,22,8,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0043,Máy in laser đơn sắc,Thiết bị văn phòng,Brother,chiếc,3190000,12,3,5,P0006,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0044,Mực in laser đen,Thiết bị văn phòng,Brother,hộp,920000,20,5,2,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0045,Máy hủy tài liệu,Thiết bị văn phòng,Silicon,chiếc,1850000,10,3,9,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0046,Máy ép plastic A4,Thiết bị văn phòng,Deli,chiếc,890000,15,4,6,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0047,Máy dập ghim số 10,Thiết bị văn phòng,Max,chiếc,78000,65,15,3,P0048,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0048,Kim bấm số 10,Thiết bị văn phòng,Max,hộp,12000,160,35,10,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0049,Máy đục lỗ 2 lỗ,Thiết bị văn phòng,Deli,chiếc,125000,45,10,7,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0050,Bảng trắng 60 x 90 cm,Thiết bị văn phòng,Bavico,chiếc,420000,18,5,4,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0051,Chuột không dây,Phụ kiện máy tính,Logitech,chiếc,320000,45,10,1,P0059,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0052,Bàn phím có dây,Phụ kiện máy tính,Logitech,chiếc,290000,35,8,8,P0059,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0053,USB 32 GB,Phụ kiện máy tính,SanDisk,chiếc,165000,70,15,5,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0054,USB 64 GB,Phụ kiện máy tính,Kingston,chiếc,245000,55,12,2,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0055,Thẻ nhớ microSD 64 GB,Phụ kiện máy tính,SanDisk,chiếc,280000,45,10,9,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0056,Cáp HDMI 2 m,Phụ kiện máy tính,Ugreen,sợi,180000,50,12,6,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0057,Cáp USB-C 1 m,Phụ kiện máy tính,Anker,sợi,220000,65,15,3,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0058,Bộ chia USB 4 cổng,Phụ kiện máy tính,Ugreen,chiếc,350000,30,8,10,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0059,Tấm lót chuột,Phụ kiện máy tính,OEM,chiếc,55000,90,20,7,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6
+P0060,Tai nghe có mic,Phụ kiện máy tính,Rapoo,chiếc,390000,32,8,4,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6

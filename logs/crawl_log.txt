@@ -1,0 +1,40 @@
+===== CRAWL START 2026-07-23T21:03:48 =====
+[DummyJSON] GET category=laptops
+[DummyJSON] category=laptops got=5
+[DummyJSON] GET category=tablets
+[DummyJSON] category=tablets got=3
+[DummyJSON] GET category=mobile-accessories
+[DummyJSON] category=mobile-accessories got=14
+[DummyJSON] done success=15 fail=0 rows=15
+[Books] GET page=1 url=https://books.toscrape.com/
+[Books] page=1 parsed=20
+[Books] done success=15 fail=0 rows=15
+===== CRAWL SUMMARY 2026-07-23T21:03:58 =====
+Total crawled products: 30
+DummyJSON rows: 15
+Books rows: 15
+By source_type: {'public_api': 15, 'public_website': 15}
+Output: C:\Cao Hoc\Lập trình KHDL\Chuyên đề\chuyen_de_6\data\raw\products_crawled.csv
+ID range: P0061 .. P0090
+NOTE: HTML practice products are NOT included here.
+NOTE: simulated_fields are documented per row.
+===== CRAWL START 2026-07-23T21:05:36 =====
+[DummyJSON] GET category=laptops
+[DummyJSON] category=laptops got=5
+[DummyJSON] GET category=tablets
+[DummyJSON] category=tablets got=3
+[DummyJSON] GET category=mobile-accessories
+[DummyJSON] category=mobile-accessories got=14
+[DummyJSON] done success=15 fail=0 rows=15
+[Books] GET page=1 url=https://books.toscrape.com/
+[Books] page=1 parsed=20
+[Books] done success=15 fail=0 rows=15
+===== CRAWL SUMMARY 2026-07-23T21:05:44 =====
+Total crawled products: 30
+DummyJSON rows: 15
+Books rows: 15
+By source_type: {'public_api': 15, 'public_website': 15}
+Output: C:\Cao Hoc\Lập trình KHDL\Chuyên đề\chuyen_de_6\data\raw\products_crawled.csv
+ID range: P0061 .. P0090
+NOTE: HTML practice products are NOT included here.
+NOTE: simulated_fields are documented per row.

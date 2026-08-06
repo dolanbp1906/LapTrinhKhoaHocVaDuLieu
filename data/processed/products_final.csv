@@ -1,0 +1,91 @@
+﻿product_id,product_name,category,brand,unit,unit_price,initial_quantity,reorder_level,popularity_weight,paired_product_id,source_type,source_reference,source_url,collected_at,simulated_fields
+P0001,Vở kẻ ngang 80 trang,Vở và giấy,Campus,quyển,12000.0,180,35,1.0,P0011,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0002,Vở kẻ ngang 120 trang,Vở và giấy,Campus,quyển,18000.0,150,30,8.0,P0011,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0003,Vở ô ly 96 trang,Vở và giấy,Hồng Hà,quyển,14000.0,170,35,5.0,P0017,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0004,Sổ lò xo A5 200 trang,Vở và giấy,Hải Tiến,quyển,42000.0,90,20,2.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0005,Sổ tay bìa da A5,Vở và giấy,OEM,quyển,79000.0,55,15,9.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0006,Giấy in A4 70 gsm,Vở và giấy,Double A,ram,82000.0,120,25,6.0,P0043,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0007,Giấy in A4 80 gsm,Vở và giấy,PaperOne,ram,99000.0,100,20,3.0,P0043,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0008,Giấy màu A4 100 tờ,Vở và giấy,IK Plus,xấp,65000.0,60,15,10.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0009,Giấy note 3 x 3 inch,Vở và giấy,Deli,xấp,18000.0,140,30,7.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0010,Giấy photo A3 70 gsm,Vở và giấy,Double A,ram,165000.0,45,10,4.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0011,Bút bi xanh 0.5 mm,Bút viết,Thiên Long,cây,5000.0,350,70,1.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0012,Bút bi đen 0.5 mm,Bút viết,Thiên Long,cây,5000.0,300,60,8.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0013,Bút bi đỏ 0.5 mm,Bút viết,Thiên Long,cây,5000.0,240,50,5.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0014,Bút gel xanh 0.5 mm,Bút viết,Deli,cây,12000.0,180,40,2.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0015,Bút máy học sinh,Bút viết,Hồng Hà,cây,45000.0,80,20,9.0,P0016,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0016,Ống mực bút máy xanh,Bút viết,Hồng Hà,hộp,25000.0,100,25,6.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0017,Bút chì 2B,Bút viết,Staedtler,cây,9000.0,220,45,3.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0018,Bút chì kim 0.5 mm,Bút viết,Pentel,cây,38000.0,90,20,10.0,P0019,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0019,Ruột chì kim 0.5 mm,Bút viết,Pentel,hộp,22000.0,110,25,7.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0020,Bút dạ quang 5 màu,Bút viết,Stabilo,bộ,85000.0,70,15,4.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0021,Thước thẳng 20 cm,Dụng cụ học tập,Thiên Long,cây,7000.0,160,35,1.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0022,Thước ê ke 2 chiếc,Dụng cụ học tập,Deli,bộ,18000.0,90,20,8.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0023,Compa học sinh,Dụng cụ học tập,Maped,chiếc,42000.0,65,15,5.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0024,Tẩy chì trắng,Dụng cụ học tập,Staedtler,viên,8000.0,180,40,2.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0025,Gọt bút chì có hộp,Dụng cụ học tập,Deli,chiếc,15000.0,120,25,9.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0026,Hộp bút vải,Dụng cụ học tập,OEM,chiếc,65000.0,60,15,6.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0027,Bộ màu sáp 24 màu,Dụng cụ học tập,Crayola,bộ,92000.0,55,12,3.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0028,Bộ màu nước 12 màu,Dụng cụ học tập,Pentel,bộ,78000.0,50,12,10.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0029,Kéo học sinh 13 cm,Dụng cụ học tập,Deli,chiếc,25000.0,85,18,7.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0030,Hồ khô 15 g,Dụng cụ học tập,Thiên Long,thỏi,14000.0,130,28,4.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0031,Bìa lá A4 trong,Hồ sơ và lưu trữ,Plus,chiếc,4000.0,300,60,1.0,P0006,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0032,Bìa nút A4,Hồ sơ và lưu trữ,Deli,chiếc,12000.0,160,35,8.0,P0006,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0033,Bìa còng 5 cm,Hồ sơ và lưu trữ,King Jim,chiếc,69000.0,75,18,5.0,P0006,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0034,File hộp 10 cm,Hồ sơ và lưu trữ,Flexoffice,chiếc,85000.0,60,15,2.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0035,Túi hồ sơ dây buộc,Hồ sơ và lưu trữ,Hồng Hà,chiếc,16000.0,110,25,9.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0036,Khay tài liệu 3 tầng,Hồ sơ và lưu trữ,Deli,bộ,185000.0,35,8,6.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0037,Cặp tài liệu A4,Hồ sơ và lưu trữ,OEM,chiếc,95000.0,45,10,3.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0038,Nhãn dán phân loại,Hồ sơ và lưu trữ,Avery,xấp,35000.0,80,18,10.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0039,Kẹp bướm 25 mm,Hồ sơ và lưu trữ,Deli,hộp,28000.0,120,25,7.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0040,Kẹp giấy 33 mm,Hồ sơ và lưu trữ,Plus,hộp,18000.0,140,30,4.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0041,Máy tính cầm tay khoa học,Thiết bị văn phòng,Casio,chiếc,680000.0,35,8,1.0,P0042,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0042,Pin AAA 4 viên,Thiết bị văn phòng,Panasonic,vỉ,42000.0,100,22,8.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0043,Máy in laser đơn sắc,Thiết bị văn phòng,Brother,chiếc,3190000.0,12,3,5.0,P0006,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0044,Mực in laser đen,Thiết bị văn phòng,Brother,hộp,920000.0,20,5,2.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0045,Máy hủy tài liệu,Thiết bị văn phòng,Silicon,chiếc,1850000.0,10,3,9.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0046,Máy ép plastic A4,Thiết bị văn phòng,Deli,chiếc,890000.0,15,4,6.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0047,Máy dập ghim số 10,Thiết bị văn phòng,Max,chiếc,78000.0,65,15,3.0,P0048,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0048,Kim bấm số 10,Thiết bị văn phòng,Max,hộp,12000.0,160,35,10.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0049,Máy đục lỗ 2 lỗ,Thiết bị văn phòng,Deli,chiếc,125000.0,45,10,7.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0050,Bảng trắng 60 x 90 cm,Thiết bị văn phòng,Bavico,chiếc,420000.0,18,5,4.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0051,Chuột không dây,Phụ kiện máy tính,Logitech,chiếc,320000.0,45,10,1.0,P0059,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0052,Bàn phím có dây,Phụ kiện máy tính,Logitech,chiếc,290000.0,35,8,8.0,P0059,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0053,USB 32 GB,Phụ kiện máy tính,SanDisk,chiếc,165000.0,70,15,5.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0054,USB 64 GB,Phụ kiện máy tính,Kingston,chiếc,245000.0,55,12,2.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0055,Thẻ nhớ microSD 64 GB,Phụ kiện máy tính,SanDisk,chiếc,280000.0,45,10,9.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0056,Cáp HDMI 2 m,Phụ kiện máy tính,Ugreen,sợi,180000.0,50,12,6.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0057,Cáp USB-C 1 m,Phụ kiện máy tính,Anker,sợi,220000.0,65,15,3.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0058,Bộ chia USB 4 cổng,Phụ kiện máy tính,Ugreen,chiếc,350000.0,30,8,10.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0059,Tấm lót chuột,Phụ kiện máy tính,OEM,chiếc,55000.0,90,20,7.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0060,Tai nghe có mic,Phụ kiện máy tính,Rapoo,chiếc,390000.0,32,8,4.0,,lecturer_sample,Bộ dữ liệu mẫu Chuyên đề 6,,,
+P0061,Apple MacBook Pro 14 Inch Space Grey,Thiết bị văn phòng,Apple,chiếc,49999750.0,24,5,4.0,,public_api,https://dummyjson.com/products,https://dummyjson.com/products/78,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0062,Asus Zenbook Pro Dual Screen Laptop,Thiết bị văn phòng,Asus,chiếc,44999750.0,45,9,4.0,P0049,public_api,https://dummyjson.com/products,https://dummyjson.com/products/79,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0063,Huawei Matebook X Pro,Thiết bị văn phòng,Huawei,chiếc,34999750.0,75,15,5.0,P0045,public_api,https://dummyjson.com/products,https://dummyjson.com/products/80,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0064,Lenovo Yoga 920,Thiết bị văn phòng,Lenovo,chiếc,27499750.0,40,8,3.0,,public_api,https://dummyjson.com/products,https://dummyjson.com/products/81,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0065,New DELL XPS 13 9300 Laptop,Thiết bị văn phòng,Dell,chiếc,37499750.0,74,14,3.0,,public_api,https://dummyjson.com/products,https://dummyjson.com/products/82,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0066,iPad Mini 2021 Starlight,Thiết bị văn phòng,Apple,chiếc,12499750.0,47,9,3.0,,public_api,https://dummyjson.com/products,https://dummyjson.com/products/159,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0067,Samsung Galaxy Tab S8 Plus Grey,Thiết bị văn phòng,Samsung,chiếc,14999750.0,62,12,5.0,P0064,public_api,https://dummyjson.com/products,https://dummyjson.com/products/160,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0068,Samsung Galaxy Tab White,Thiết bị văn phòng,Samsung,chiếc,8749750.0,92,18,4.0,P0043,public_api,https://dummyjson.com/products,https://dummyjson.com/products/161,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0069,Amazon Echo Plus,Phụ kiện máy tính,Amazon,cái,2499750.0,61,12,5.0,P0051,public_api,https://dummyjson.com/products,https://dummyjson.com/products/99,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0070,Apple Airpods,Phụ kiện máy tính,Apple,cái,3249750.0,67,13,4.0,,public_api,https://dummyjson.com/products,https://dummyjson.com/products/100,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0071,Apple AirPods Max Silver,Phụ kiện máy tính,Apple,cái,13749750.0,59,11,3.0,,public_api,https://dummyjson.com/products,https://dummyjson.com/products/101,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0072,Apple Airpower Wireless Charger,Phụ kiện máy tính,Apple,cái,1999750.0,1,1,4.0,,public_api,https://dummyjson.com/products,https://dummyjson.com/products/102,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0073,Apple HomePod Mini Cosmic Grey,Phụ kiện máy tính,Apple,cái,2499750.0,27,5,5.0,P0074,public_api,https://dummyjson.com/products,https://dummyjson.com/products/103,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0074,Apple iPhone Charger,Phụ kiện máy tính,Apple,cái,499750.0,31,6,4.0,,public_api,https://dummyjson.com/products,https://dummyjson.com/products/104,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0075,Apple MagSafe Battery Pack,Phụ kiện máy tính,Apple,cái,2499750.0,1,1,4.0,,public_api,https://dummyjson.com/products,https://dummyjson.com/products/105,2026-07-23T21:05:36,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,unit_price(fx)"
+P0076,A Light in the Attic,Sách,Unknown,quyển,1708410.0,66,16,7.0,P0089,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0077,Tipping the Velvet,Sách,Unknown,quyển,1773420.0,77,19,8.0,P0083,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0078,Soumission,Sách,Unknown,quyển,1653300.0,88,22,9.0,P0079,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/soumission_998/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0079,Sharp Objects,Sách,Unknown,quyển,1578060.0,99,24,10.0,P0089,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/sharp-objects_997/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0080,Sapiens: A Brief History of Humankind,Sách,Unknown,quyển,1789590.0,110,27,1.0,P0077,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0081,The Requiem Red,Sách,Unknown,quyển,747450.0,121,30,2.0,P0082,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0082,The Dirty Little Secrets of Getting Your Dream Job,Sách,Unknown,quyển,1100220.0,32,8,3.0,,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0083,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Sách,Unknown,quyển,591690.0,43,10,4.0,,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0084,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Sách,Unknown,quyển,745800.0,54,13,5.0,,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0085,The Black Maria,Sách,Unknown,quyển,1720950.0,65,16,6.0,,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/the-black-maria_991/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0086,"Starving Hearts (Triangular Trade Trilogy, #1)",Sách,Unknown,quyển,461670.0,76,19,7.0,,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0087,Shakespeare's Sonnets,Sách,Unknown,quyển,681780.0,87,21,8.0,,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0088,Set Me Free,Sách,Unknown,quyển,576180.0,98,24,9.0,P0084,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/set-me-free_988/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0089,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sách,Unknown,quyển,1725570.0,109,27,10.0,P0086,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"
+P0090,Rip it Up and Start Again,Sách,Unknown,quyển,1155660.0,120,30,1.0,,public_website,https://books.toscrape.com/,https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html,2026-07-23T21:05:41,"initial_quantity,reorder_level,popularity_weight,paired_product_id,product_id,brand,unit_price(fx)"

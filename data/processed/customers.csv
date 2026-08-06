@@ -1,0 +1,221 @@
+﻿customer_id,city,customer_type,join_date
+C0001,TP. Hồ Chí Minh,retail,2024-10-20
+C0002,Hải Phòng,retail,2024-04-16
+C0003,TP. Hồ Chí Minh,wholesale,2024-12-09
+C0004,TP. Hồ Chí Minh,wholesale,2024-09-02
+C0005,Hà Nội,retail,2023-12-14
+C0006,Hà Nội,wholesale,2024-03-26
+C0007,Nha Trang,retail,2024-11-28
+C0008,Cần Thơ,student,2024-09-24
+C0009,Đà Nẵng,wholesale,2023-12-01
+C0010,Cần Thơ,retail,2024-05-20
+C0011,Huế,retail,2024-12-22
+C0012,TP. Hồ Chí Minh,retail,2024-06-09
+C0013,Cần Thơ,student,2024-05-22
+C0014,Biên Hòa,retail,2024-12-05
+C0015,TP. Hồ Chí Minh,wholesale,2024-06-08
+C0016,Huế,wholesale,2024-10-14
+C0017,TP. Hồ Chí Minh,retail,2024-11-22
+C0018,Cần Thơ,office,2024-03-23
+C0019,TP. Hồ Chí Minh,retail,2024-03-26
+C0020,Huế,retail,2024-07-17
+C0021,Hải Phòng,wholesale,2024-05-27
+C0022,TP. Hồ Chí Minh,wholesale,2024-11-21
+C0023,Hải Phòng,retail,2024-02-23
+C0024,Cần Thơ,office,2024-06-09
+C0025,Hải Phòng,wholesale,2024-10-20
+C0026,Hà Nội,retail,2024-12-25
+C0027,Huế,retail,2023-12-14
+C0028,Hải Phòng,office,2023-12-31
+C0029,Huế,retail,2024-09-13
+C0030,Nha Trang,student,2024-08-09
+C0031,Biên Hòa,retail,2024-10-22
+C0032,Hải Phòng,student,2024-02-07
+C0033,Cần Thơ,student,2024-08-29
+C0034,Nha Trang,retail,2024-07-04
+C0035,Biên Hòa,retail,2024-02-06
+C0036,TP. Hồ Chí Minh,retail,2023-12-22
+C0037,Nha Trang,wholesale,2024-02-17
+C0038,Nha Trang,wholesale,2024-06-12
+C0039,Cần Thơ,office,2024-07-24
+C0040,TP. Hồ Chí Minh,wholesale,2023-12-03
+C0041,Cần Thơ,student,2024-08-28
+C0042,TP. Hồ Chí Minh,retail,2024-05-20
+C0043,Biên Hòa,retail,2024-02-16
+C0044,Cần Thơ,office,2024-12-01
+C0045,Đà Nẵng,retail,2024-12-22
+C0046,Cần Thơ,student,2024-01-21
+C0047,Hải Phòng,retail,2024-08-13
+C0048,Đà Nẵng,retail,2024-12-22
+C0049,Hà Nội,wholesale,2024-12-30
+C0050,Hà Nội,retail,2024-08-04
+C0051,Cần Thơ,retail,2024-05-31
+C0052,TP. Hồ Chí Minh,retail,2024-03-30
+C0053,TP. Hồ Chí Minh,office,2024-08-02
+C0054,Đà Nẵng,retail,2024-08-26
+C0055,Đà Nẵng,retail,2024-07-28
+C0056,Nha Trang,office,2024-10-03
+C0057,Hải Phòng,student,2024-08-30
+C0058,Huế,retail,2024-06-19
+C0059,Biên Hòa,retail,2024-08-18
+C0060,TP. Hồ Chí Minh,retail,2024-03-22
+C0061,Hải Phòng,wholesale,2024-09-24
+C0062,TP. Hồ Chí Minh,student,2023-12-01
+C0063,Hải Phòng,retail,2023-12-28
+C0064,Huế,retail,2023-12-14
+C0065,Cần Thơ,wholesale,2024-03-28
+C0066,Đà Nẵng,student,2024-03-16
+C0067,Biên Hòa,retail,2024-09-15
+C0068,Nha Trang,retail,2024-07-27
+C0069,Nha Trang,retail,2024-01-16
+C0070,Biên Hòa,student,2024-06-25
+C0071,TP. Hồ Chí Minh,retail,2023-12-25
+C0072,Huế,student,2024-12-04
+C0073,Hải Phòng,retail,2024-01-22
+C0074,Biên Hòa,retail,2024-08-28
+C0075,Cần Thơ,retail,2024-02-29
+C0076,Biên Hòa,student,2024-01-05
+C0077,TP. Hồ Chí Minh,retail,2024-09-04
+C0078,Hà Nội,office,2024-08-30
+C0079,Hải Phòng,retail,2024-12-17
+C0080,Biên Hòa,retail,2024-08-02
+C0081,Hà Nội,retail,2024-06-20
+C0082,Nha Trang,retail,2023-11-29
+C0083,Cần Thơ,retail,2024-07-17
+C0084,Biên Hòa,retail,2024-12-06
+C0085,Hải Phòng,office,2024-04-27
+C0086,Hà Nội,student,2024-09-19
+C0087,Hà Nội,wholesale,2023-12-27
+C0088,Đà Nẵng,retail,2024-08-11
+C0089,TP. Hồ Chí Minh,student,2024-08-14
+C0090,TP. Hồ Chí Minh,wholesale,2024-01-02
+C0091,Nha Trang,retail,2024-03-27
+C0092,Hải Phòng,wholesale,2024-09-14
+C0093,TP. Hồ Chí Minh,retail,2023-12-18
+C0094,Huế,office,2024-09-21
+C0095,Huế,retail,2024-03-11
+C0096,Đà Nẵng,wholesale,2024-06-17
+C0097,Biên Hòa,retail,2024-04-29
+C0098,TP. Hồ Chí Minh,retail,2024-12-16
+C0099,TP. Hồ Chí Minh,retail,2024-10-11
+C0100,Cần Thơ,retail,2024-03-16
+C0101,TP. Hồ Chí Minh,student,2024-05-24
+C0102,Cần Thơ,retail,2024-06-04
+C0103,Cần Thơ,wholesale,2024-09-01
+C0104,Hà Nội,wholesale,2024-10-27
+C0105,Cần Thơ,office,2024-09-06
+C0106,Đà Nẵng,retail,2024-01-20
+C0107,Đà Nẵng,retail,2024-01-21
+C0108,Hải Phòng,student,2024-10-02
+C0109,Cần Thơ,retail,2024-03-11
+C0110,Hà Nội,retail,2024-04-04
+C0111,Cần Thơ,retail,2024-07-01
+C0112,Đà Nẵng,wholesale,2024-05-16
+C0113,Đà Nẵng,student,2024-04-10
+C0114,Nha Trang,wholesale,2024-09-05
+C0115,TP. Hồ Chí Minh,office,2024-01-24
+C0116,Đà Nẵng,retail,2024-11-15
+C0117,Đà Nẵng,retail,2024-06-04
+C0118,Cần Thơ,retail,2023-12-19
+C0119,Huế,retail,2023-12-18
+C0120,TP. Hồ Chí Minh,retail,2024-04-03
+C0121,Nha Trang,office,2024-09-09
+C0122,Đà Nẵng,office,2024-12-15
+C0123,Đà Nẵng,office,2024-03-28
+C0124,Nha Trang,retail,2024-02-26
+C0125,Huế,student,2024-12-09
+C0126,Hải Phòng,retail,2024-06-25
+C0127,TP. Hồ Chí Minh,retail,2024-11-21
+C0128,Biên Hòa,retail,2023-12-17
+C0129,Huế,retail,2024-07-20
+C0130,Hải Phòng,retail,2024-03-23
+C0131,Nha Trang,retail,2024-03-05
+C0132,Cần Thơ,retail,2024-01-02
+C0133,Nha Trang,wholesale,2024-08-14
+C0134,Huế,office,2024-08-28
+C0135,Cần Thơ,retail,2024-01-26
+C0136,Hà Nội,retail,2024-04-11
+C0137,Huế,student,2024-07-07
+C0138,Nha Trang,wholesale,2024-05-06
+C0139,TP. Hồ Chí Minh,retail,2024-08-15
+C0140,Hải Phòng,retail,2024-09-18
+C0141,Nha Trang,retail,2024-11-24
+C0142,Hải Phòng,retail,2024-08-29
+C0143,Huế,wholesale,2024-01-02
+C0144,TP. Hồ Chí Minh,student,2024-11-01
+C0145,Cần Thơ,wholesale,2024-04-29
+C0146,Nha Trang,wholesale,2024-05-13
+C0147,Đà Nẵng,retail,2024-09-06
+C0148,Nha Trang,wholesale,2024-11-02
+C0149,Cần Thơ,retail,2024-02-25
+C0150,Cần Thơ,retail,2023-11-28
+C0151,Huế,retail,2024-07-05
+C0152,Hải Phòng,retail,2024-07-11
+C0153,Đà Nẵng,wholesale,2024-12-08
+C0154,Huế,retail,2024-04-21
+C0155,Hải Phòng,wholesale,2024-12-16
+C0156,Hải Phòng,retail,2024-03-22
+C0157,Hải Phòng,office,2023-12-21
+C0158,TP. Hồ Chí Minh,retail,2024-10-05
+C0159,Hải Phòng,student,2024-10-15
+C0160,Biên Hòa,retail,2024-06-11
+C0161,Hà Nội,student,2024-02-11
+C0162,TP. Hồ Chí Minh,student,2024-12-26
+C0163,Đà Nẵng,student,2024-03-19
+C0164,Biên Hòa,retail,2024-11-18
+C0165,TP. Hồ Chí Minh,retail,2024-04-03
+C0166,Huế,office,2024-07-22
+C0167,Nha Trang,student,2024-07-11
+C0168,Biên Hòa,student,2024-09-03
+C0169,Biên Hòa,retail,2024-12-12
+C0170,Hải Phòng,student,2024-12-16
+C0171,Biên Hòa,wholesale,2024-04-17
+C0172,Biên Hòa,retail,2024-04-16
+C0173,Hải Phòng,retail,2024-04-22
+C0174,TP. Hồ Chí Minh,retail,2024-05-09
+C0175,Nha Trang,wholesale,2024-03-25
+C0176,Hải Phòng,retail,2024-11-23
+C0177,Huế,retail,2024-06-23
+C0178,Hà Nội,retail,2024-06-27
+C0179,Nha Trang,office,2024-06-30
+C0180,Hà Nội,student,2024-09-22
+C0181,Nha Trang,retail,2024-12-23
+C0182,Cần Thơ,student,2024-05-26
+C0183,Hải Phòng,retail,2024-06-29
+C0184,Nha Trang,retail,2024-04-15
+C0185,Huế,wholesale,2024-06-14
+C0186,Đà Nẵng,student,2024-06-22
+C0187,Hà Nội,office,2024-02-01
+C0188,Hà Nội,retail,2024-09-26
+C0189,Đà Nẵng,student,2024-07-04
+C0190,Hà Nội,retail,2024-02-29
+C0191,Hải Phòng,retail,2024-05-13
+C0192,Nha Trang,retail,2024-05-18
+C0193,Cần Thơ,student,2024-06-30
+C0194,Hà Nội,student,2024-07-25
+C0195,Huế,retail,2023-12-24
+C0196,Hà Nội,student,2024-01-02
+C0197,Hải Phòng,student,2024-04-02
+C0198,Đà Nẵng,retail,2024-10-11
+C0199,TP. Hồ Chí Minh,wholesale,2024-07-27
+C0200,Biên Hòa,wholesale,2024-03-18
+C0201,Huế,retail,2024-12-24
+C0202,TP. Hồ Chí Minh,student,2024-10-03
+C0203,Cần Thơ,retail,2024-02-19
+C0204,Cần Thơ,wholesale,2023-12-11
+C0205,Nha Trang,office,2024-06-07
+C0206,TP. Hồ Chí Minh,wholesale,2024-03-08
+C0207,Hải Phòng,retail,2024-10-14
+C0208,Cần Thơ,student,2024-12-27
+C0209,TP. Hồ Chí Minh,student,2024-09-30
+C0210,Hà Nội,retail,2024-09-12
+C0211,Huế,retail,2024-07-04
+C0212,Huế,retail,2024-10-24
+C0213,Biên Hòa,retail,2024-06-30
+C0214,Biên Hòa,student,2024-05-31
+C0215,Đà Nẵng,student,2024-07-07
+C0216,Cần Thơ,wholesale,2024-10-26
+C0217,Biên Hòa,retail,2024-08-29
+C0218,Cần Thơ,retail,2024-12-06
+C0219,TP. Hồ Chí Minh,retail,2024-04-01
+C0220,Hải Phòng,student,2024-07-15

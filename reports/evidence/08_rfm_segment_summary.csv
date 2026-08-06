@@ -1,0 +1,5 @@
+﻿cluster,n_customers,recency_days,frequency,monetary,RFM_score,segment
+1,78,30.06,7.67,411842769.95,12.33,Champions
+0,36,161.42,4.0,117125320.42,5.69,Potential
+2,88,41.26,4.68,73913912.78,8.25,Loyal
+3,17,76.12,2.71,3234645.12,4.71,At Risk

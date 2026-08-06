@@ -1,0 +1,2 @@
+[2026-07-23T20:59:47] TX000004 export P0005: Từ chối: tồn kho âm (hiện có 55, yêu cầu 155)
+[2026-07-23T20:59:47] TX000007 sale P0005: Từ chối: tồn kho âm (hiện có 55, yêu cầu 10000)

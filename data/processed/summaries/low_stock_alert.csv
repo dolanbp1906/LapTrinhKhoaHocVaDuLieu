@@ -1,0 +1,78 @@
+﻿product_id,current_quantity,product_name,category,reorder_level,initial_quantity,below_reorder
+P0089,-527,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sách,27,109,True
+P0035,-478,Túi hồ sơ dây buộc,Hồ sơ và lưu trữ,25,110,True
+P0006,-420,Giấy in A4 70 gsm,Vở và giấy,25,120,True
+P0079,-413,Sharp Objects,Sách,24,99,True
+P0043,-358,Máy in laser đơn sắc,Thiết bị văn phòng,3,12,True
+P0059,-356,Tấm lót chuột,Phụ kiện máy tính,20,90,True
+P0084,-334,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Sách,13,54,True
+P0016,-326,Ống mực bút máy xanh,Bút viết,25,100,True
+P0086,-318,"Starving Hearts (Triangular Trade Trilogy, #1)",Sách,19,76,True
+P0038,-308,Nhãn dán phân loại,Hồ sơ và lưu trữ,18,80,True
+P0088,-306,Set Me Free,Sách,24,98,True
+P0008,-292,Giấy màu A4 100 tờ,Vở và giấy,15,60,True
+P0045,-292,Máy hủy tài liệu,Thiết bị văn phòng,3,10,True
+P0005,-291,Sổ tay bìa da A5,Vở và giấy,15,55,True
+P0076,-287,A Light in the Attic,Sách,16,66,True
+P0058,-286,Bộ chia USB 4 cổng,Phụ kiện máy tính,8,30,True
+P0083,-277,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Sách,10,43,True
+P0049,-272,Máy đục lỗ 2 lỗ,Thiết bị văn phòng,10,45,True
+P0028,-259,Bộ màu nước 12 màu,Dụng cụ học tập,12,50,True
+P0015,-251,Bút máy học sinh,Bút viết,20,80,True
+P0018,-243,Bút chì kim 0.5 mm,Bút viết,20,90,True
+P0050,-241,Bảng trắng 60 x 90 cm,Thiết bị văn phòng,5,18,True
+P0019,-238,Ruột chì kim 0.5 mm,Bút viết,25,110,True
+P0055,-232,Thẻ nhớ microSD 64 GB,Phụ kiện máy tính,10,45,True
+P0029,-219,Kéo học sinh 13 cm,Dụng cụ học tập,18,85,True
+P0026,-217,Hộp bút vải,Dụng cụ học tập,15,60,True
+P0078,-216,Soumission,Sách,22,88,True
+P0056,-216,Cáp HDMI 2 m,Phụ kiện máy tính,12,50,True
+P0048,-214,Kim bấm số 10,Thiết bị văn phòng,35,160,True
+P0052,-199,Bàn phím có dây,Phụ kiện máy tính,8,35,True
+P0073,-199,Apple HomePod Mini Cosmic Grey,Phụ kiện máy tính,5,27,True
+P0036,-185,Khay tài liệu 3 tầng,Hồ sơ và lưu trữ,8,35,True
+P0009,-178,Giấy note 3 x 3 inch,Vở và giấy,30,140,True
+P0074,-171,Apple iPhone Charger,Phụ kiện máy tính,6,31,True
+P0025,-166,Gọt bút chì có hộp,Dụng cụ học tập,25,120,True
+P0023,-150,Compa học sinh,Dụng cụ học tập,15,65,True
+P0042,-147,Pin AAA 4 viên,Thiết bị văn phòng,22,100,True
+P0087,-138,Shakespeare's Sonnets,Sách,21,87,True
+P0039,-137,Kẹp bướm 25 mm,Hồ sơ và lưu trữ,25,120,True
+P0077,-124,Tipping the Velvet,Sách,19,77,True
+P0064,-120,Lenovo Yoga 920,Thiết bị văn phòng,8,40,True
+P0060,-109,Tai nghe có mic,Phụ kiện máy tính,8,32,True
+P0061,-108,Apple MacBook Pro 14 Inch Space Grey,Thiết bị văn phòng,5,24,True
+P0075,-107,Apple MagSafe Battery Pack,Phụ kiện máy tính,1,1,True
+P0022,-103,Thước ê ke 2 chiếc,Dụng cụ học tập,20,90,True
+P0072,-100,Apple Airpower Wireless Charger,Phụ kiện máy tính,1,1,True
+P0033,-95,Bìa còng 5 cm,Hồ sơ và lưu trữ,18,75,True
+P0037,-93,Cặp tài liệu A4,Hồ sơ và lưu trữ,10,45,True
+P0062,-87,Asus Zenbook Pro Dual Screen Laptop,Thiết bị văn phòng,9,45,True
+P0067,-86,Samsung Galaxy Tab S8 Plus Grey,Thiết bị văn phòng,12,62,True
+P0046,-80,Máy ép plastic A4,Thiết bị văn phòng,4,15,True
+P0069,-79,Amazon Echo Plus,Phụ kiện máy tính,12,61,True
+P0017,-77,Bút chì 2B,Bút viết,45,220,True
+P0085,-77,The Black Maria,Sách,16,65,True
+P0020,-72,Bút dạ quang 5 màu,Bút viết,15,70,True
+P0066,-71,iPad Mini 2021 Starlight,Thiết bị văn phòng,9,47,True
+P0051,-64,Chuột không dây,Phụ kiện máy tính,10,45,True
+P0032,-63,Bìa nút A4,Hồ sơ và lưu trữ,35,160,True
+P0053,-62,USB 32 GB,Phụ kiện máy tính,15,70,True
+P0065,-60,New DELL XPS 13 9300 Laptop,Thiết bị văn phòng,14,74,True
+P0068,-53,Samsung Galaxy Tab White,Thiết bị văn phòng,18,92,True
+P0010,-52,Giấy photo A3 70 gsm,Vở và giấy,10,45,True
+P0047,-50,Máy dập ghim số 10,Thiết bị văn phòng,15,65,True
+P0057,-49,Cáp USB-C 1 m,Phụ kiện máy tính,15,65,True
+P0044,-46,Mực in laser đen,Thiết bị văn phòng,5,20,True
+P0027,-43,Bộ màu sáp 24 màu,Dụng cụ học tập,12,55,True
+P0082,-40,The Dirty Little Secrets of Getting Your Dream Job,Sách,8,32,True
+P0003,-40,Vở ô ly 96 trang,Vở và giấy,35,170,True
+P0063,-32,Huawei Matebook X Pro,Thiết bị văn phòng,15,75,True
+P0040,-30,Kẹp giấy 33 mm,Hồ sơ và lưu trữ,30,140,True
+P0071,-29,Apple AirPods Max Silver,Phụ kiện máy tính,11,59,True
+P0070,-14,Apple Airpods,Phụ kiện máy tính,13,67,True
+P0034,-14,File hộp 10 cm,Hồ sơ và lưu trữ,15,60,True
+P0002,-5,Vở kẻ ngang 120 trang,Vở và giấy,30,150,True
+P0012,8,Bút bi đen 0.5 mm,Bút viết,60,300,True
+P0030,9,Hồ khô 15 g,Dụng cụ học tập,28,130,True
+P0054,10,USB 64 GB,Phụ kiện máy tính,12,55,True

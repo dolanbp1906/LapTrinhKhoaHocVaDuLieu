@@ -1,0 +1,354 @@
+{
+  "order_value": {
+    "task": "order_value_regression",
+    "n_train": 900,
+    "n_test": 300,
+    "features_num": [
+      "n_items",
+      "total_qty",
+      "avg_selling_price",
+      "discount",
+      "month",
+      "dow"
+    ],
+    "features_cat": [
+      "payment_method",
+      "sales_channel",
+      "city",
+      "customer_type"
+    ],
+    "metrics": {
+      "DummyRegressor": {
+        "MAE": 43986056.88347407,
+        "RMSE": 82558035.54266769,
+        "R2": -0.014451299034238918
+      },
+      "LinearRegression": {
+        "MAE": 33258995.851105295,
+        "RMSE": 73418632.26910724,
+        "R2": 0.1977216343474959
+      },
+      "DecisionTreeRegressor": {
+        "MAE": 10756912.792652985,
+        "RMSE": 37851808.59593755,
+        "R2": 0.7867516043750831
+      }
+    },
+    "best_model": "DecisionTreeRegressor",
+    "error_cases": [
+      {
+        "order_id": "ORD000414",
+        "y_true": 846239000.0,
+        "y_pred": 393347683.28571427,
+        "abs_error": 452891316.71428573,
+        "pct_error": 0.5351813337772021,
+        "sales_channel": "offline",
+        "city": "Nha Trang",
+        "customer_type": "wholesale",
+        "n_items": 2,
+        "total_qty": 44,
+        "avg_selling_price": 15374750.0
+      },
+      {
+        "order_id": "ORD000157",
+        "y_true": 150830626.0,
+        "y_pred": 393347683.28571427,
+        "abs_error": 242517057.28571427,
+        "pct_error": 1.6078767536621792,
+        "sales_channel": "shopee",
+        "city": "Nha Trang",
+        "customer_type": "retail",
+        "n_items": 6,
+        "total_qty": 19,
+        "avg_selling_price": 10664806.5
+      },
+      {
+        "order_id": "ORD000295",
+        "y_true": 536096250.0,
+        "y_pred": 393347683.28571427,
+        "abs_error": 142748566.71428573,
+        "pct_error": 0.2662741377397916,
+        "sales_channel": "offline",
+        "city": "TP. Hồ Chí Minh",
+        "customer_type": "wholesale",
+        "n_items": 2,
+        "total_qty": 21,
+        "avg_selling_price": 18424875.0
+      },
+      {
+        "order_id": "ORD000219",
+        "y_true": 302497250.0,
+        "y_pred": 168413231.3529412,
+        "abs_error": 134084018.64705881,
+        "pct_error": 0.4432569838140969,
+        "sales_channel": "website",
+        "city": "Hà Nội",
+        "customer_type": "wholesale",
+        "n_items": 1,
+        "total_qty": 11,
+        "avg_selling_price": 27499750.0
+      },
+      {
+        "order_id": "ORD000819",
+        "y_true": 58102401.00000001,
+        "y_pred": 187209782.1,
+        "abs_error": 129107381.1,
+        "pct_error": 2.2220661948204166,
+        "sales_channel": "online",
+        "city": "Huế",
+        "customer_type": "retail",
+        "n_items": 6,
+        "total_qty": 14,
+        "avg_selling_price": 7095275.166666667
+      },
+      {
+        "order_id": "ORD001023",
+        "y_true": 54999500.0,
+        "y_pred": 168413231.3529412,
+        "abs_error": 113413731.35294119,
+        "pct_error": 2.062086589022467,
+        "sales_channel": "offline",
+        "city": "Hải Phòng",
+        "customer_type": "retail",
+        "n_items": 1,
+        "total_qty": 2,
+        "avg_selling_price": 27499750.0
+      },
+      {
+        "order_id": "ORD000124",
+        "y_true": 58441250.0,
+        "y_pred": 168413231.3529412,
+        "abs_error": 109971981.35294119,
+        "pct_error": 1.8817527235119234,
+        "sales_channel": "shopee",
+        "city": "Biên Hòa",
+        "customer_type": "retail",
+        "n_items": 3,
+        "total_qty": 11,
+        "avg_selling_price": 17229350.0
+      },
+      {
+        "order_id": "ORD001164",
+        "y_true": 185172640.0,
+        "y_pred": 79419769.42105263,
+        "abs_error": 105752870.57894737,
+        "pct_error": 0.5711041900085637,
+        "sales_channel": "offline",
+        "city": "Đà Nẵng",
+        "customer_type": "retail",
+        "n_items": 4,
+        "total_qty": 12,
+        "avg_selling_price": 9615595.0
+      },
+      {
+        "order_id": "ORD001173",
+        "y_true": 86208250.0,
+        "y_pred": 187209782.1,
+        "abs_error": 101001532.1,
+        "pct_error": 1.1715993782497613,
+        "sales_channel": "offline",
+        "city": "Cần Thơ",
+        "customer_type": "office",
+        "n_items": 4,
+        "total_qty": 26,
+        "avg_selling_price": 6997687.5
+      },
+      {
+        "order_id": "ORD000267",
+        "y_true": 72027559.0,
+        "y_pred": 155437984.2,
+        "abs_error": 83410425.19999999,
+        "pct_error": 1.1580348738459953,
+        "sales_channel": "shopee",
+        "city": "Nha Trang",
+        "customer_type": "office",
+        "n_items": 4,
+        "total_qty": 35,
+        "avg_selling_price": 2993279.75
+      }
+    ]
+  },
+  "stock_alert": {
+    "task": "low_stock_classification",
+    "n_train": 63,
+    "n_test": 27,
+    "class_balance": {
+      "1": 77,
+      "0": 13
+    },
+    "features_num": [
+      "unit_price",
+      "popularity_weight",
+      "initial_quantity",
+      "reorder_level",
+      "reorder_ratio",
+      "early_sold_qty",
+      "early_import_qty",
+      "early_sell_through"
+    ],
+    "features_cat": [
+      "category",
+      "source_type"
+    ],
+    "metrics": {
+      "DummyClassifier": {
+        "Accuracy": 0.8518518518518519,
+        "Precision": 0.8518518518518519,
+        "Recall": 1.0,
+        "F1": 0.92
+      },
+      "LogisticRegression": {
+        "Accuracy": 0.9259259259259259,
+        "Precision": 1.0,
+        "Recall": 0.9130434782608695,
+        "F1": 0.9545454545454546
+      },
+      "DecisionTreeClassifier": {
+        "Accuracy": 0.9629629629629629,
+        "Precision": 1.0,
+        "Recall": 0.9565217391304348,
+        "F1": 0.9777777777777777
+      }
+    },
+    "best_model": "DecisionTreeClassifier",
+    "error_cases": [
+      {
+        "product_id": "P0057",
+        "y_true": 1,
+        "y_pred": 0,
+        "wrong": true,
+        "product_name": "Cáp USB-C 1 m",
+        "category": "Phụ kiện máy tính",
+        "current_quantity": -49,
+        "reorder_level": 15,
+        "early_sold_qty": 22,
+        "early_sell_through": 0.3384615384615385,
+        "margin": NaN
+      },
+      {
+        "product_id": "P0034",
+        "y_true": 1,
+        "y_pred": 1,
+        "wrong": false,
+        "product_name": "File hộp 10 cm",
+        "category": "Hồ sơ và lưu trữ",
+        "current_quantity": -14,
+        "reorder_level": 15,
+        "early_sold_qty": 29,
+        "early_sell_through": 0.48333333333333334,
+        "margin": 29.0
+      },
+      {
+        "product_id": "P0081",
+        "y_true": 0,
+        "y_pred": 0,
+        "wrong": false,
+        "product_name": "The Requiem Red",
+        "category": "Sách",
+        "current_quantity": 81,
+        "reorder_level": 30,
+        "early_sold_qty": 36,
+        "early_sell_through": 0.2975206611570248,
+        "margin": 51.0
+      },
+      {
+        "product_id": "P0012",
+        "y_true": 1,
+        "y_pred": 1,
+        "wrong": false,
+        "product_name": "Bút bi đen 0.5 mm",
+        "category": "Bút viết",
+        "current_quantity": 8,
+        "reorder_level": 60,
+        "early_sold_qty": 143,
+        "early_sell_through": 0.4766666666666667,
+        "margin": 52.0
+      },
+      {
+        "product_id": "P0068",
+        "y_true": 1,
+        "y_pred": 1,
+        "wrong": false,
+        "product_name": "Samsung Galaxy Tab White",
+        "category": "Thiết bị văn phòng",
+        "current_quantity": -53,
+        "reorder_level": 18,
+        "early_sold_qty": 128,
+        "early_sell_through": 1.391304347826087,
+        "margin": 71.0
+      },
+      {
+        "product_id": "P0065",
+        "y_true": 1,
+        "y_pred": 1,
+        "wrong": false,
+        "product_name": "New DELL XPS 13 9300 Laptop",
+        "category": "Thiết bị văn phòng",
+        "current_quantity": -60,
+        "reorder_level": 14,
+        "early_sold_qty": 50,
+        "early_sell_through": 0.6756756756756757,
+        "margin": 74.0
+      },
+      {
+        "product_id": "P0014",
+        "y_true": 0,
+        "y_pred": 0,
+        "wrong": false,
+        "product_name": "Bút gel xanh 0.5 mm",
+        "category": "Bút viết",
+        "current_quantity": 132,
+        "reorder_level": 40,
+        "early_sold_qty": 26,
+        "early_sell_through": 0.14444444444444443,
+        "margin": 92.0
+      },
+      {
+        "product_id": "P0062",
+        "y_true": 1,
+        "y_pred": 1,
+        "wrong": false,
+        "product_name": "Asus Zenbook Pro Dual Screen Laptop",
+        "category": "Thiết bị văn phòng",
+        "current_quantity": -87,
+        "reorder_level": 9,
+        "early_sold_qty": 77,
+        "early_sell_through": 1.711111111111111,
+        "margin": 96.0
+      },
+      {
+        "product_id": "P0032",
+        "y_true": 1,
+        "y_pred": 1,
+        "wrong": false,
+        "product_name": "Bìa nút A4",
+        "category": "Hồ sơ và lưu trữ",
+        "current_quantity": -63,
+        "reorder_level": 35,
+        "early_sold_qty": 141,
+        "early_sell_through": 0.88125,
+        "margin": 98.0
+      },
+      {
+        "product_id": "P0021",
+        "y_true": 0,
+        "y_pred": 0,
+        "wrong": false,
+        "product_name": "Thước thẳng 20 cm",
+        "category": "Dụng cụ học tập",
+        "current_quantity": 135,
+        "reorder_level": 35,
+        "early_sold_qty": 3,
+        "early_sell_through": 0.01875,
+        "margin": 100.0
+      }
+    ],
+    "n_wrong_on_test": 1
+  },
+  "notes": [
+    "Train/test split trước khi học tham số (random_state=42).",
+    "Dùng Pipeline + ColumnTransformer (scale + one-hot).",
+    "Không báo cáo metric trên tập train.",
+    "Dữ liệu giao dịch là synthetic; giới hạn triển khai thực tế."
+  ]
+}

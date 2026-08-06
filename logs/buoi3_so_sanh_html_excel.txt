@@ -1,0 +1,9 @@
+SO SÁNH HTML MẪU vs products_lecturer
+Số trang HTML: 2
+Số SP từ HTML: 60
+Số SP Excel: 60
+Thiếu trong HTML: (không)
+Thừa trong HTML: (không)
+Trùng ID trong HTML: (không)
+Số lệch trường: 0
+Kết luận: HTML mẫu dùng để luyện kỹ thuật; KHÔNG tính là sản phẩm crawl bổ sung.

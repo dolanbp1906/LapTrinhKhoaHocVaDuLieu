@@ -1,0 +1,39 @@
+Nhật ký kiểm tra dữ liệu sản phẩm - Buổi 1
+============================================
+Thời gian: 2026-07-23
+File: data/raw/products_lecturer.csv (đồng bộ từ products_sample)
+
+1. Tổng quan
+- Số bản ghi: 60
+- Số thuộc tính: 12
+- Cột: product_id, product_name, category, brand, unit, unit_price,
+  initial_quantity, reorder_level, popularity_weight, paired_product_id,
+  source_type, source_reference
+
+2. Phân bố danh mục
+- Vở và giấy: 10
+- Bút viết: 10
+- Dụng cụ học tập: 10
+- Hồ sơ và lưu trữ: 10
+- Thiết bị văn phòng: 10
+- Phụ kiện máy tính: 10
+
+3. Kiểm tra chất lượng
+- Thiếu giá trị: paired_product_id thiếu 45/60 (chấp nhận được - không phải mọi SP đều có cặp)
+- Trùng product_id: 0
+- unit_price <= 0: 0
+- initial_quantity <= reorder_level: 0
+- paired_product_id không tồn tại trong bảng: 0
+- Khoảng unit_price: 4000 .. 3190000
+- source_type: lecturer_sample (toàn bộ)
+
+4. Kết luận Buổi 1
+- Dữ liệu GV đủ chất lượng để làm bộ khởi đầu.
+- Bắt buộc crawl bổ sung >= 20 sản phẩm từ DummyJSON + Books to Scrape.
+- Không dùng riêng file này làm bộ sản phẩm cuối cùng.
+
+5. Ghi chú phạm vi cửa hàng
+- Loại cửa hàng: Nhà sách và văn phòng phẩm
+- Nguồn crawl đã chốt:
+  * https://dummyjson.com/docs/products
+  * https://books.toscrape.com/

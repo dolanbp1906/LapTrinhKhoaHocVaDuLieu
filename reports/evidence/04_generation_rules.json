@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "n_customers": 220,
+  "n_orders": 1200,
+  "n_order_details": 3274,
+  "n_inventory_tx": 3396,
+  "order_period": "2025-01-01 .. 2025-12-31",
+  "selection": "weighted by popularity_weight; paired_product_id boost ~55%",
+  "pricing": "70% list price, 30% 90-99% of list",
+  "note": "Synthetic transactional data generated for coursework; not real sales."
+}

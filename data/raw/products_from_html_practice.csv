@@ -1,0 +1,61 @@
+﻿product_id,product_name,category,brand,unit_price,initial_quantity,reorder_level,source_page
+P0001,Vở kẻ ngang 80 trang,Vở và giấy,Campus,12000,180,35,products_page_1.html
+P0002,Vở kẻ ngang 120 trang,Vở và giấy,Campus,18000,150,30,products_page_1.html
+P0003,Vở ô ly 96 trang,Vở và giấy,Hồng Hà,14000,170,35,products_page_1.html
+P0004,Sổ lò xo A5 200 trang,Vở và giấy,Hải Tiến,42000,90,20,products_page_1.html
+P0005,Sổ tay bìa da A5,Vở và giấy,OEM,79000,55,15,products_page_1.html
+P0006,Giấy in A4 70 gsm,Vở và giấy,Double A,82000,120,25,products_page_1.html
+P0007,Giấy in A4 80 gsm,Vở và giấy,PaperOne,99000,100,20,products_page_1.html
+P0008,Giấy màu A4 100 tờ,Vở và giấy,IK Plus,65000,60,15,products_page_1.html
+P0009,Giấy note 3 x 3 inch,Vở và giấy,Deli,18000,140,30,products_page_1.html
+P0010,Giấy photo A3 70 gsm,Vở và giấy,Double A,165000,45,10,products_page_1.html
+P0011,Bút bi xanh 0.5 mm,Bút viết,Thiên Long,5000,350,70,products_page_1.html
+P0012,Bút bi đen 0.5 mm,Bút viết,Thiên Long,5000,300,60,products_page_1.html
+P0013,Bút bi đỏ 0.5 mm,Bút viết,Thiên Long,5000,240,50,products_page_1.html
+P0014,Bút gel xanh 0.5 mm,Bút viết,Deli,12000,180,40,products_page_1.html
+P0015,Bút máy học sinh,Bút viết,Hồng Hà,45000,80,20,products_page_1.html
+P0016,Ống mực bút máy xanh,Bút viết,Hồng Hà,25000,100,25,products_page_1.html
+P0017,Bút chì 2B,Bút viết,Staedtler,9000,220,45,products_page_1.html
+P0018,Bút chì kim 0.5 mm,Bút viết,Pentel,38000,90,20,products_page_1.html
+P0019,Ruột chì kim 0.5 mm,Bút viết,Pentel,22000,110,25,products_page_1.html
+P0020,Bút dạ quang 5 màu,Bút viết,Stabilo,85000,70,15,products_page_1.html
+P0021,Thước thẳng 20 cm,Dụng cụ học tập,Thiên Long,7000,160,35,products_page_1.html
+P0022,Thước ê ke 2 chiếc,Dụng cụ học tập,Deli,18000,90,20,products_page_1.html
+P0023,Compa học sinh,Dụng cụ học tập,Maped,42000,65,15,products_page_1.html
+P0024,Tẩy chì trắng,Dụng cụ học tập,Staedtler,8000,180,40,products_page_1.html
+P0025,Gọt bút chì có hộp,Dụng cụ học tập,Deli,15000,120,25,products_page_1.html
+P0026,Hộp bút vải,Dụng cụ học tập,OEM,65000,60,15,products_page_1.html
+P0027,Bộ màu sáp 24 màu,Dụng cụ học tập,Crayola,92000,55,12,products_page_1.html
+P0028,Bộ màu nước 12 màu,Dụng cụ học tập,Pentel,78000,50,12,products_page_1.html
+P0029,Kéo học sinh 13 cm,Dụng cụ học tập,Deli,25000,85,18,products_page_1.html
+P0030,Hồ khô 15 g,Dụng cụ học tập,Thiên Long,14000,130,28,products_page_1.html
+P0031,Bìa lá A4 trong,Hồ sơ và lưu trữ,Plus,4000,300,60,products_page_2.html
+P0032,Bìa nút A4,Hồ sơ và lưu trữ,Deli,12000,160,35,products_page_2.html
+P0033,Bìa còng 5 cm,Hồ sơ và lưu trữ,King Jim,69000,75,18,products_page_2.html
+P0034,File hộp 10 cm,Hồ sơ và lưu trữ,Flexoffice,85000,60,15,products_page_2.html
+P0035,Túi hồ sơ dây buộc,Hồ sơ và lưu trữ,Hồng Hà,16000,110,25,products_page_2.html
+P0036,Khay tài liệu 3 tầng,Hồ sơ và lưu trữ,Deli,185000,35,8,products_page_2.html
+P0037,Cặp tài liệu A4,Hồ sơ và lưu trữ,OEM,95000,45,10,products_page_2.html
+P0038,Nhãn dán phân loại,Hồ sơ và lưu trữ,Avery,35000,80,18,products_page_2.html
+P0039,Kẹp bướm 25 mm,Hồ sơ và lưu trữ,Deli,28000,120,25,products_page_2.html
+P0040,Kẹp giấy 33 mm,Hồ sơ và lưu trữ,Plus,18000,140,30,products_page_2.html
+P0041,Máy tính cầm tay khoa học,Thiết bị văn phòng,Casio,680000,35,8,products_page_2.html
+P0042,Pin AAA 4 viên,Thiết bị văn phòng,Panasonic,42000,100,22,products_page_2.html
+P0043,Máy in laser đơn sắc,Thiết bị văn phòng,Brother,3190000,12,3,products_page_2.html
+P0044,Mực in laser đen,Thiết bị văn phòng,Brother,920000,20,5,products_page_2.html
+P0045,Máy hủy tài liệu,Thiết bị văn phòng,Silicon,1850000,10,3,products_page_2.html
+P0046,Máy ép plastic A4,Thiết bị văn phòng,Deli,890000,15,4,products_page_2.html
+P0047,Máy dập ghim số 10,Thiết bị văn phòng,Max,78000,65,15,products_page_2.html
+P0048,Kim bấm số 10,Thiết bị văn phòng,Max,12000,160,35,products_page_2.html
+P0049,Máy đục lỗ 2 lỗ,Thiết bị văn phòng,Deli,125000,45,10,products_page_2.html
+P0050,Bảng trắng 60 x 90 cm,Thiết bị văn phòng,Bavico,420000,18,5,products_page_2.html
+P0051,Chuột không dây,Phụ kiện máy tính,Logitech,320000,45,10,products_page_2.html
+P0052,Bàn phím có dây,Phụ kiện máy tính,Logitech,290000,35,8,products_page_2.html
+P0053,USB 32 GB,Phụ kiện máy tính,SanDisk,165000,70,15,products_page_2.html
+P0054,USB 64 GB,Phụ kiện máy tính,Kingston,245000,55,12,products_page_2.html
+P0055,Thẻ nhớ microSD 64 GB,Phụ kiện máy tính,SanDisk,280000,45,10,products_page_2.html
+P0056,Cáp HDMI 2 m,Phụ kiện máy tính,Ugreen,180000,50,12,products_page_2.html
+P0057,Cáp USB-C 1 m,Phụ kiện máy tính,Anker,220000,65,15,products_page_2.html
+P0058,Bộ chia USB 4 cổng,Phụ kiện máy tính,Ugreen,350000,30,8,products_page_2.html
+P0059,Tấm lót chuột,Phụ kiện máy tính,OEM,55000,90,20,products_page_2.html
+P0060,Tai nghe có mic,Phụ kiện máy tính,Rapoo,390000,32,8,products_page_2.html

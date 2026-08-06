@@ -1,0 +1,16 @@
+BAO CAO LAM SACH / GOP SAN PHAM - BUOI 4
+lecturer_raw=60 clean=60
+crawled_raw=30 clean=30
+overlap_dropped=[]
+final_count=90
+assigned_pairs=14
+by_source={'lecturer_sample': 60, 'public_api': 15, 'public_website': 15}
+by_category={'Vở và giấy': 10, 'Bút viết': 10, 'Dụng cụ học tập': 10, 'Hồ sơ và lưu trữ': 10, 'Thiết bị văn phòng': 18, 'Phụ kiện máy tính': 17, 'Sách': 15}
+
+ISSUES / QUY TAC DA AP DUNG:
+- P0072: initial_quantity<=reorder_level (1<=5) -> reorder=1
+- P0075: initial_quantity<=reorder_level (1<=5) -> reorder=1
+
+VALIDATION ok=True
+validation_issues=[]
+price_range=4000.0 .. 49999750.0

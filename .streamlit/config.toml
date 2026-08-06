@@ -1,0 +1,9 @@
+# Không khai báo [theme] đầy đủ để Settings vẫn có Light / Dark / Use system setting.
+[client]
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true

@@ -1,0 +1,59 @@
+{
+  "reference_date": "2026-01-01",
+  "k": 4,
+  "silhouette_scores": {
+    "3": 0.3087504572067833,
+    "4": 0.3163599187909843,
+    "5": 0.29484539636788726,
+    "6": 0.30938764137732644
+  },
+  "features": [
+    "recency_days",
+    "frequency",
+    "log1p(monetary)"
+  ],
+  "scaler": "StandardScaler",
+  "random_state": 42,
+  "segments": [
+    {
+      "segment": "Champions",
+      "cluster": 1,
+      "n_customers": 78,
+      "avg_recency": 30.06,
+      "avg_frequency": 7.67,
+      "avg_monetary": 411842769.95,
+      "description": "Mua gần đây, thường xuyên, chi tiêu cao",
+      "strategy": "Giữ chân VIP: ưu đãi độc quyền, early access, chăm sóc cá nhân hóa."
+    },
+    {
+      "segment": "Potential",
+      "cluster": 0,
+      "n_customers": 36,
+      "avg_recency": 161.42,
+      "avg_frequency": 4.0,
+      "avg_monetary": 117125320.42,
+      "description": "Chi tiêu hoặc tần suất tiềm năng, chưa ổn định",
+      "strategy": "Nurture: coupon kích hoạt đơn tiếp theo, email gợi ý theo danh mục đã mua."
+    },
+    {
+      "segment": "Loyal",
+      "cluster": 2,
+      "n_customers": 88,
+      "avg_recency": 41.26,
+      "avg_frequency": 4.68,
+      "avg_monetary": 73913912.78,
+      "description": "Tần suất tốt, chi tiêu khá, recency ổn",
+      "strategy": "Upsell/cross-sell, chương trình tích điểm, gợi ý sản phẩm cặp."
+    },
+    {
+      "segment": "At Risk",
+      "cluster": 3,
+      "n_customers": 17,
+      "avg_recency": 76.12,
+      "avg_frequency": 2.71,
+      "avg_monetary": 3234645.12,
+      "description": "Từng mua tốt nhưng lâu không quay lại",
+      "strategy": "Win-back: mã giảm giá có hạn, khảo sát lý do rời bỏ, remarketing."
+    }
+  ]
+}
