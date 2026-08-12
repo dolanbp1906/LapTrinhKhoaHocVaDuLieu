@@ -21,9 +21,7 @@ python src/run_all.py
 python -m streamlit run src/app_dashboard.py
 ```
 
-## Việc cần điền trước khi gửi
 
-- Họ tên, mã học viên và tên giảng viên trong báo cáo/slide.
 
 **Tổng số tệp (không tính manifest):** 96  
 **Dung lượng:** 4.02 MB
@@ -74,6 +72,8 @@ python -m streamlit run src/app_dashboard.py
 - `practice/PUBLIC_SOURCES.md`
 - `README.md`
 - `reports/bang_dong_gop.md`
+- `reports/cover/khung_bia.jpg`
+- `reports/cover/logo_tlu.png`
 - `reports/BAO_CAO_CHUYEN_DE_6.docx`
 - `reports/BAO_CAO_CHUYEN_DE_6.pdf`
 - `reports/BAO_CAO_TONG_HOP.md`
