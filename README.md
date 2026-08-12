@@ -60,32 +60,32 @@ python src/run_all.py --with-crawl
 
 Hoặc từng buổi: `demo_buoi2.py`, `crawl_products.py`, `run_buoi4.py` … `run_buoi8_rfm.py`.
 
-## Tiến độ (đã hoàn thành 8/8)
+## Tiến độ (8/8 buổi)
 
 | Buổi | Trạng thái | Hồ sơ |
 |---|---|---|
-| 1. Khởi động & thiết kế | ✅ | `reports/01_hoso_buoi_1.md` |
-| 2. OOP kho | ✅ | `reports/02_hoso_buoi_2.md` |
-| 3. Thu thập / crawl | ✅ | `reports/03_hoso_buoi_3.md` |
-| 4. Clean + sinh giao dịch | ✅ | `reports/04_hoso_buoi_4.md` |
-| 5. Merge / Pivot | ✅ | `reports/05_hoso_buoi_5.md` |
-| 6. EDA | ✅ | `reports/06_hoso_buoi_6.md` |
-| 7. ML | ✅ | `reports/07_hoso_buoi_7.md` |
-| 8. RFM + hoàn thiện | ✅ | `reports/08_hoso_buoi_8.md` |
+| 1. Khởi động & thiết kế | ✅ | `notebooks/01_problem_and_data.ipynb` |
+| 2. OOP kho | ✅ | `src/models.py`, `inventory_manager.py` |
+| 3. Thu thập / crawl | ✅ | `notebooks/02_collection_and_cleaning.ipynb` |
+| 4. Clean + sinh giao dịch | ✅ | `src/run_buoi4.py`, `logs/buoi4_cleaning_report.txt` |
+| 5. Merge / Pivot | ✅ | `src/run_buoi5.py`, `logs/buoi5_merge_checks.txt` |
+| 6. EDA | ✅ | `notebooks/03_eda.ipynb`, `reports/figures/` |
+| 7. ML | ✅ | `notebooks/04_machine_learning.ipynb`, `reports/07_*` |
+| 8. RFM + hoàn thiện | ✅ | `src/run_buoi8_rfm.py`, `reports/08_*` |
 
 ## Sản phẩm nộp chính
 
-- Báo cáo Word 27 trang: [`reports/BAO_CAO_CHUYEN_DE_6.docx`](reports/BAO_CAO_CHUYEN_DE_6.docx)
+- Báo cáo Word: [`reports/BAO_CAO_CHUYEN_DE_6.docx`](reports/BAO_CAO_CHUYEN_DE_6.docx)
 - Báo cáo PDF: [`reports/BAO_CAO_CHUYEN_DE_6.pdf`](reports/BAO_CAO_CHUYEN_DE_6.pdf)
-- Bản tóm tắt Markdown: [`reports/BAO_CAO_TONG_HOP.md`](reports/BAO_CAO_TONG_HOP.md)
 - Slide thuyết trình: [`reports/SLIDE_CHUYEN_DE_6.pptx`](reports/SLIDE_CHUYEN_DE_6.pptx)
-- Slide outline: [`reports/SLIDE_OUTLINE.md`](reports/SLIDE_OUTLINE.md)
 - Nhật ký AI: [`logs/ai_usage_log.md`](logs/ai_usage_log.md)
 - Đóng góp: [`reports/bang_dong_gop.md`](reports/bang_dong_gop.md)
 - Nguồn dữ liệu: [`source_information.txt`](source_information.txt)
 - Notebooks bắt buộc: `01_problem_and_data.ipynb`, `02_collection_and_cleaning.ipynb`, `03_eda.ipynb`, `04_machine_learning.ipynb`
 - Minh chứng NumPy/dictionary: `reports/03_numpy_dictionary_evidence.*`
-- Figures: `reports/figures/`
+- Figures: `reports/figures/` (12 biểu đồ)
+
+Danh sách đầy đủ: [`DANH_SACH_FILE_NOP.md`](DANH_SACH_FILE_NOP.md)
 
 ## Kết quả nổi bật (tóm tắt)
 

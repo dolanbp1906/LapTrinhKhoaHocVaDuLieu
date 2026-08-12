@@ -1,17 +1,18 @@
 # DANH SÁCH HỒ SƠ NỘP — CHUYÊN ĐỀ 6
 
-Thư mục này chỉ giữ các sản phẩm cần thiết để giảng viên chấm và chạy lại dự án.
+Thư mục này chỉ giữ các sản phẩm cần thiết để giảng viên chấm và chạy lại dự án (theo đề cương *Chuyên đề cho KHDL*).
 
 ## Sản phẩm chính
 
-- `reports/BAO_CAO_CHUYEN_DE_6.pdf` — báo cáo chính.
-- `reports/BAO_CAO_CHUYEN_DE_6.docx` — bản Word có thể chỉnh sửa.
-- `reports/SLIDE_CHUYEN_DE_6.pptx` — slide bảo vệ.
-- `notebooks/` — đúng 04 notebook bắt buộc.
-- `src/` — mã nguồn theo module/lớp.
-- `data/raw/`, `data/processed/` — dữ liệu gốc và dữ liệu sạch.
-- `logs/` — nhật ký crawl, lỗi, kho và sử dụng AI.
-- `reports/figures/`, metric và case sai — minh chứng kết quả.
+| Nhóm | Nội dung |
+|---|---|
+| Báo cáo | `reports/BAO_CAO_CHUYEN_DE_6.pdf`, `.docx` |
+| Slide | `reports/SLIDE_CHUYEN_DE_6.pptx` |
+| Notebook | `notebooks/` — 04 notebook bắt buộc |
+| Mã nguồn | `src/` — module/lớp Python |
+| Dữ liệu | `data/raw/`, `data/processed/` |
+| Nhật ký | `logs/` — crawl, lỗi, kho, AI |
+| Minh chứng | `reports/figures/`, metric ML, case sai, NumPy |
 
 ## Chạy lại
 
@@ -21,10 +22,8 @@ python src/run_all.py
 python -m streamlit run src/app_dashboard.py
 ```
 
-
-
-**Tổng số tệp (không tính manifest):** 96  
-**Dung lượng:** 4.02 MB
+**Tổng số tệp (không tính manifest):** 95  
+**Dung lượng:** ~4.6 MB
 
 ## Danh sách tệp
 
@@ -71,21 +70,18 @@ python -m streamlit run src/app_dashboard.py
 - `practice/html_sample/products_page_2.html`
 - `practice/PUBLIC_SOURCES.md`
 - `README.md`
+- `reports/03_numpy_dictionary_evidence.json`
+- `reports/03_numpy_dictionary_evidence.md`
+- `reports/04_generation_rules.json`
+- `reports/07_ml_metrics.json`
+- `reports/07_order_value_top10_errors.csv`
+- `reports/07_stock_alert_error_cases.csv`
+- `reports/08_rfm_meta.json`
+- `reports/08_rfm_segment_summary.csv`
 - `reports/bang_dong_gop.md`
-- `reports/cover/khung_bia.jpg`
-- `reports/cover/logo_tlu.png`
 - `reports/BAO_CAO_CHUYEN_DE_6.docx`
 - `reports/BAO_CAO_CHUYEN_DE_6.pdf`
 - `reports/BAO_CAO_TONG_HOP.md`
-- `reports/DEMO_FLOW.md`
-- `reports/evidence/03_numpy_dictionary_evidence.json`
-- `reports/evidence/03_numpy_dictionary_evidence.md`
-- `reports/evidence/04_generation_rules.json`
-- `reports/evidence/07_ml_metrics.json`
-- `reports/evidence/07_order_value_top10_errors.csv`
-- `reports/evidence/07_stock_alert_error_cases.csv`
-- `reports/evidence/08_rfm_meta.json`
-- `reports/evidence/08_rfm_segment_summary.csv`
 - `reports/figures/01_revenue_by_month.png`
 - `reports/figures/02_revenue_by_category.png`
 - `reports/figures/03_top_slow_products.png`
@@ -109,12 +105,10 @@ python -m streamlit run src/app_dashboard.py
 - `src/crawl_practice_html.py`
 - `src/crawl_products.py`
 - `src/demo_buoi2.py`
-- `src/generate_submission_files.py`
 - `src/generate_transactions.py`
 - `src/inventory_manager.py`
 - `src/merge_products.py`
 - `src/models.py`
-- `src/package_submission.py`
 - `src/plot_style.py`
 - `src/read_excel.py`
 - `src/run_all.py`

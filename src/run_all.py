@@ -39,7 +39,6 @@ def main() -> None:
         "run_buoi6_eda.py",
         "run_buoi7_ml.py",
         "run_buoi8_rfm.py",
-        "generate_submission_files.py",
     ]
 
     for s in steps:
